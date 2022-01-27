@@ -1629,8 +1629,7 @@ html {
 .area-aside .box-category .tt_category .category_list .link_item:hover {
     font-size: 14px;
     font-weight: 500;
-    color: #333 !important;
-    text-decoration: underline;
+    color: powderblue !important;
 }
 
 .area-aside .box-category .tt_category .category_list .link_sub_item.selected,
@@ -1661,7 +1660,7 @@ html {
 
 .area-aside .box-category .tt_category .category_list .link_sub_item:hover {
     font-weight: 600;
-    color: #333;
+    color: powderblue;
 }
 
 .area-aside .box-category .tt_category .category_list .sub_category_list li:last-child a {
